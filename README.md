@@ -1,3 +1,3 @@
 # MA676PythonProgrammingMiniProject
 
-Group number: Yuyang Zhang, Yujia Wang, Yuchen Liu, Biyao Zhang
+Group number: Yuyang Li, Yujia Wang, Yuchen Liu, Biyao Zhang
